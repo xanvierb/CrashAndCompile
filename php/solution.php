@@ -1,0 +1,6 @@
+<?php
+
+fwrite(STDOUT, readline());
+
+?>
+
